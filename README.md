@@ -16,5 +16,8 @@
 * 안재현님([@JaehyunAhn](https://github.com/JaehyunAhn))
 * 이광영님([@ipari](https://github.com/ipari))
 * 황준식님([@junkwhinger](https://github.com/junkwhinger))
+* 황은빛님([@deveb](https://github.com/deveb))
+* 성우경님([@ukysung](https://github.com/ukysung))
+* 박기성님([@minmul117](https://github.com/minmul117))
 
 발표 준비에 도움 주신 모든 분들께 감사드립니다.
