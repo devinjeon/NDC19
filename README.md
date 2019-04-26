@@ -19,5 +19,6 @@
 * 황은빛님([@deveb](https://github.com/deveb))
 * 성우경님([@ukysung](https://github.com/ukysung))
 * 박기성님([@minmul117](https://github.com/minmul117))
+* 박경재님([@kyungjaepark](https://github.com/kyungjaepark))
 
 발표 준비에 도움 주신 모든 분들께 감사드립니다.
