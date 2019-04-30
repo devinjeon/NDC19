@@ -6,7 +6,7 @@
 
 ### 발표 슬라이드
 
-* [슬라이드 보기](https://hyojun.me/~ndc19)
+* [슬라이드 보기](https://hyojun.me/~ndc19-slide)
 * [슬라이드 보기(자막 포함)](https://hyojun.me/~ndc19-caption)
 
 ### 특히 많은 도움을 주신 분들
